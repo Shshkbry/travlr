@@ -1,0 +1,20 @@
+[
+  {
+    "code": "STEAK1",
+    "name": "Porterhouse",
+    "image": "images/steak.jpg",
+    "description": "<p><span>Seared Porterhouse</span> Insert info about meal here</p>"
+  },
+  {
+    "code": "DESSERTS2",
+    "name": "Desserts",
+    "image": "images/desserts.jpg",
+    "description": "<p><span>Tiramisu</span> Insert info about meal here</p>"
+  },
+  {
+    "code": "COCKTAILS3",
+    "name": "Drinks",
+    "image": "images/drinks.jpg",
+    "description": "<p><span>Drinks</span> Insert info about meal here</p>"
+  }
+]
